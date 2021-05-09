@@ -7,8 +7,8 @@ BlogDenem
 
 *******
 * qewqe
-**qeqe
-*** qweqweqw
-**** qweqweqwe
+* qeqe
+* qweqweqw
+* qweqweqwe
  
  $ adasdasdas
